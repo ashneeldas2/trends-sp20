@@ -28,4 +28,4 @@ app.get('/book/:userid', function (req, res) {
 });
 
 // starts the server on port 8080
-app.listen(8080, function () { console.log("server started") });
+app.listen(8080, function () { console.log('server started'); });
