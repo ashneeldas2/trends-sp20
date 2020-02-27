@@ -19,11 +19,11 @@ app.get('/getSongs', async function (req, res) {
   // TODO: Write getSongs endpoint here
 });
 
-app.post('/updateRating', async function (req, res) {
+app.post('/updateRating', function (req, res) {
   // TODO: Write updateRating endpoint here
 });
 
-app.delete('/deleteSong', async function (req, res) {
+app.delete('/deleteSong', function (req, res) {
   // TODO: Write deleteSong endpoint here
 });
 
