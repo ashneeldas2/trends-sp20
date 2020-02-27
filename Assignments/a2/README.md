@@ -4,6 +4,9 @@ For the second assignment, you will be working with Firebase to perform CRUD
 operations and use queries on a database. In this assignment, we're going to 
 create a database of songs. 
 
+Note: While writing this assignment, please have the app run on port 8080. 
+This will make grading easier for us. 
+
 ## Part 1: Creating the database 
 
 First, navigate to [Firebase](https://firebase.google.com/) and create a 
@@ -39,12 +42,15 @@ We will be passing information in the request body (`req.body`) in the following
   artist: string, 
   rating: int
 }
+
+The endpoint should send back the ID of the added document to the frontend.
 ```
 
 ## Part 4: Read the list of songs
 
 Write a `GET` request with route `/getSongs`. This will return a list of the 
-songs in the songs collection, sorted alphabetically by their name. 
+songs in the songs collection, sorted alphabetically by their name. The returned 
+objects should also contain the id of the song.
 
 ## Part 5: Update a song's rating
 
@@ -78,7 +84,10 @@ that it is there).
 
 ## Part 7: Submission
 
-Submit your assignment as a zip containing your `service-account.json` and 
-`index.js` files. While it is generally bad practice to expose your keys, 
-it is necessary for us to be able to test the functionality of the assignment. 
-Don't worry, we won't fill your database with junk! 😊😊😊
+Submit your assignment as a zip containing your `index.js` files. When you 
+submit your code, comment out the initializeApp statement in the code so we can
+test it against our own database. Don't worry, we won't fill your database with 
+junk! 😊😊😊
+
+DO NOT submit your `node_modules`. We WILL deduct points for this. 
+Lots of points. 
