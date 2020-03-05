@@ -84,10 +84,10 @@ that it is there).
 
 ## Part 7: Submission
 
-Submit your assignment as a zip containing your `index.js` files. When you 
-submit your code, comment out the initializeApp statement in the code so we can
-test it against our own database. Don't worry, we won't fill your database with 
-junk! 😊😊😊
+Submit your assignment as a zip containing your `index.js`, `package.json`, and 
+`yarn.lock` files. When you submit your code, comment out the initializeApp statement 
+in the code so we can test it against our own database. Don't worry, we won't 
+fill your database with junk! 😊😊😊
 
 DO NOT submit your `node_modules`. We WILL deduct points for this. 
 Lots of points. 
