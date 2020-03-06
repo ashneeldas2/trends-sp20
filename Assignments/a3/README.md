@@ -17,7 +17,7 @@ Example: `getSquares([1, 2, 3, 4])` should return `[1, 4]`.  
 ## Question 3
 
 Write a function, makeSentences, that takes in an array of objects 
-in the format {name: string, age: int, breed: string} and maps it to an array of sentences
+in the format {name: string, age: double, breed: string} and maps it to an array of sentences
 in the format "_name_ is _age_ years old, and is a _breed_."
 
 **NOTE**
