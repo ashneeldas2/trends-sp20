@@ -15,11 +15,11 @@ click project settings and go to service accounts. Copy and paste the code
 snippet provided into your `index.js` file. Generate a new private key
 and and rename it to `service-account.json`. Put this file in the root of your 
 project. Go to the database section (in the navigation bar on the left) and 
-create a new realtime database. 
+create a new Firestore database. 
 
 ## Part 2: Manually make a collection
 
-After the realtime database is created, make a new collection in the database
+After the Firestore database is created, make a new collection in the database
 called "Songs". Within this collection, create a document called "song1". 
 This document will have three fields, "name", "artist", and "rating", with 
 respective values "Never Gonna Give You Up", "Rick Astley", and your 
