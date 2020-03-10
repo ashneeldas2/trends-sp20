@@ -32,10 +32,16 @@ add to the list of items.
 Initialize the TaskList in App.js. This is as simple as 
 importing the TaskList and creating a component: 
 
-`<TaskList />` 
-
+`<TaskList />`
+ 
+## Final app
+After everything is done, your app should be able to operate like this: 
 
 <image src="todo.gif">
+
+Feel free to add styling to make it look as beautiful as you 
+wish! 
+
 ## Part 4: Optional challenge
 
 Make it so that checking the checkbox next to an item
