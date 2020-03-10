@@ -4,6 +4,13 @@ For this assignment, we will be taking a nice break from Express and Firebase to
 
 ALL questions in this assignment MUST be done using `.map`, `.filter`, or `.reduce`. We will give you no credit for an approach that is not functional.
 
+ALL functions must also be defined using **arrow functions**:
+```
+(params) => { 
+  // function body 
+}
+```
+
 ## Question 1
 
 Write a function, `myMean`, that takes in an array of numbers and returns the mean.
@@ -19,6 +26,8 @@ Example: `getSquares([1, 2, 3, 4])` should return `[1, 4]`.  
 Write a function, makeSentences, that takes in an array of objects 
 in the format {name: string, age: number, breed: string} and maps it to an array of sentences
 in the format "_name_ is _age_ years old, and is a _breed_."
+
+Please use _object destructuring_ to get object fields.
 
 **NOTE**
 
