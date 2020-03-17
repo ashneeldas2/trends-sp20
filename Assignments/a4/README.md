@@ -45,4 +45,8 @@ wish!
 ## Part 4: Optional challenge
 
 Make it so that checking the checkbox next to an item
-will remove the item from the todo list. 
+will remove the item from the todo list.
+
+## Submission
+
+Submit to CMS a zip file of everything in your project (`create-react-app`) directory but **remove node_modules** . _Failure to remove_ `node_modules` _will result in a **10 point** deduction_.
