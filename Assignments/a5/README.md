@@ -41,3 +41,11 @@ area will be 1039.23.
 Display a message to the user in each component which states if Sam can buy 
 the house given his constraints (area < 5000). Use conditional rendering to 
 display a message like "Sam can buy the house" or "Sam can not buy the house". 
+
+## Submission
+
+Submit to CMS a zip file of everything in your project (`create-react-app`) directory but **remove node_modules** . _Failure to remove_ `node_modules` _will result in a **10 point** deduction_.
+
+<br />
+
+<img src="BEARRRR.png" width="75px">
