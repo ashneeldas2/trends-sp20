@@ -12,6 +12,9 @@ length of one side, because they don't want their customers to do the calculatio
 in case they mess up. Sam is smart, so he is going to use an app to do some 
 work for him.
 
+NOTE: You may use Math.floor to deal with floating point errors when
+displaying the area.
+
 ## Part 1 
 
 In App.js, create a state that contains the side length of the house. This will 
@@ -34,7 +37,7 @@ update the other components based on the new side length.
 
 For example, if I change the square component to have an area of 400, the side length
 will be computed to be 20, and then the pentagon area will be 688.19 and the hexagon
-area will be 1039.23. 
+area will be 1039.23 (but these can be rounded down for displaying purposes). 
 
 ## Part 4
 
