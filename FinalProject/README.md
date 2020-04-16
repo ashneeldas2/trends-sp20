@@ -51,6 +51,12 @@ you progress in a reasonable way.
 
 Each milestone is due before lecture on its due date.
 
+### Milestone 0 - April 17 by 11:59 PM 
+
+Find a partner and fill out this form: 
+
+https://docs.google.com/forms/d/e/1FAIpQLSd1SXLkvxTvP4FaVZfbz2Da1X0lT7J8SKKYWv7siBLL7riLHA/viewform
+
 ### Milestone 1 - April 22
 
 - Have some of either the frontend or backend done (you choose). 
@@ -100,7 +106,7 @@ if you did frontend).
   get most of the points here; the only way to lose points is if it is 
   clear that not a lot of effort has been put in or you are consistently 
   missing milestones.
-  
+
 ## Submission
 
 Submission will be a zip file of your code, along with a 
