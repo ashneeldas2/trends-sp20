@@ -51,7 +51,7 @@ you progress in a reasonable way.
 
 Each milestone is due before lecture on its due date.
 
-### Milestone 0 - April 17 by 11:59 PM 
+### Milestone 0 - April 18 by 11:59 PM 
 
 Find a partner and fill out this form: 
 
